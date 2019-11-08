@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RenameSongFiles/1.0.0": {
+        "dependencies": {
+          "ID3": "0.6.0"
+        },
+        "runtime": {
+          "RenameSongFiles.dll": {}
+        }
+      },
+      "ID3/0.6.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2018.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Id3.Net.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2018.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2018.3.0.0",
+            "fileVersion": "2018.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RenameSongFiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ID3/0.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7oHf3mjkeJp5xHAOqE0y9xxnFbJH7VifL1EHjRNHY6LiC2LeMERTTmEQBJXaqrIJ5KgehUkY5XhuskaPoanUqA==",
+      "path": "id3/0.6.0",
+      "hashPath": "id3.0.6.0.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2018.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hbt5edAd7OfnYwsRayYguECzIJ4FUWDGjeEHsmxIgEpBbqZglhpxqjPWnWN/pEQM1HFGojMrR9dsywmC8pPTeQ==",
+      "path": "jetbrains.annotations/2018.3.0",
+      "hashPath": "jetbrains.annotations.2018.3.0.nupkg.sha512"
+    }
+  }
+}

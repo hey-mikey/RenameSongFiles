@@ -1,0 +1,14 @@
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\bin\Debug\netcoreapp3.0\RenameSongFiles.exe
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\bin\Debug\netcoreapp3.0\RenameSongFiles.deps.json
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\bin\Debug\netcoreapp3.0\RenameSongFiles.runtimeconfig.json
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\bin\Debug\netcoreapp3.0\RenameSongFiles.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\bin\Debug\netcoreapp3.0\RenameSongFiles.dll
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\bin\Debug\netcoreapp3.0\RenameSongFiles.pdb
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\obj\Debug\netcoreapp3.0\RenameSongFiles.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\obj\Debug\netcoreapp3.0\RenameSongFiles.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\obj\Debug\netcoreapp3.0\RenameSongFiles.AssemblyInfo.cs
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\obj\Debug\netcoreapp3.0\RenameSongFiles.dll
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\obj\Debug\netcoreapp3.0\RenameSongFiles.pdb
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\bin\Debug\netcoreapp3.0\Id3.Net.dll
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\bin\Debug\netcoreapp3.0\JetBrains.Annotations.dll
+C:\Users\Mike\source\repos\RenameSongFiles\RenameSongFiles\obj\Debug\netcoreapp3.0\RenameSongFiles.csproj.CopyComplete
